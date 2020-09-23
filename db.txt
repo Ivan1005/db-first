@@ -1,0 +1,8 @@
+ID_veicolo	           numero incrementale			PRIMARY KEY, 	NOTNULL
+Marca			        	   stringa				           VARCHAR(20)	NOTNULL
+Modello			           stringa				           VARCHAR (16)	NOTNULL
+Cilindrata			       stringa				           VARCHAR (15)	NOTNULL
+Carburante			       stringa			             VARCHAR (20)	NOTNULL
+Km				             numero					           SMALL		NOTNULL
+Porte				           numero				             TINYINT	NOTNULL
+Anno_immatricolazione	 data						           YEAR		NOTNULL
